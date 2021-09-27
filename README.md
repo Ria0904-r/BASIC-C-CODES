@@ -1,2 +1,2 @@
 # BASIC-CPP-CODES
-Basic C++ Codes
+Basic C++ Codes of difference mathematical concepts.
